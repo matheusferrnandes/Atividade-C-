@@ -1,2 +1,2 @@
-# Fun-ao-
+# Atividade C
 Elabore um programa em C que possua uma estrutura de aluno com (caracteres) nome, (inteiro) idade e (caracter) sexo, sendo vetor de 10 posições (Criação de 10 alunos). Utilizando funções resolva as seguintes questões: a) Crie uma função que mostre a quantidade de alunos existentes no vetor que as idades sejam maiores que 10(Utilizar return) b) Crie uma função de nome MENOR que retorne o Aluno(nome, idade e sexo) com a menor idade existente no vetor (Utilizar return) c) Crie uma função que mostre os Alunos(nome, idade e sexo) com idades pares e impares existentes no vetor. d) Crie uma função que receba um número inteiro vindo do main() e retorne quantos Alunos(nome, idade e sexo) existentes no vetor são maiores que esse número (Utilizar return)
